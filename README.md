@@ -1,1 +1,1 @@
-Este é um repositório teste da aula de 'Setup de Ferramentas' da Cube Academy.
+Este é um repositório teste da aula de 'Setup de Ferramentas' da Cubos Academy.
